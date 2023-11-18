@@ -1,4 +1,4 @@
- House Price Prediction using Machine Learning
+# House Price Prediction using Machine Learning
 
 According to Zillow, home prices increased by 23% between 2020 and 2022. In addition, the current economic conditions have resulted in uncertainty in the housing market, causing a constant fear in the buyer's mind to pay more than the suitable price. This study aims to provide the most accurate price prediction possible for homes to assist prospective purchasers in making the best selections possible.
   
