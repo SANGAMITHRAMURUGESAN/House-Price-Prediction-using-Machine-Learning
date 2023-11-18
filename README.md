@@ -13,6 +13,11 @@ We used 4 major machine learning models : XGBoost, Random Forest (RF), K-Nearest
 
 # Results
 The new ensemble model, which is an amalgamation of XGBoost and ANN, was the chosen model for deployment owing to its performance with an R-squared score of 75%. It is also important to note that the new ensemble has the best R2 score, surpassing RF and ANN. Also, among all the other four models, KNN gave less performance with a 0.62 accuracy. Finally, this project's objective was met through this work by exploring the application of different machine learning approaches to predicting the price of homes.
+<img width="872" alt="Screenshot 2023-11-17 at 11 53 32 PM" src="https://github.com/SANGAMITHRAMURUGESAN/House-Price-Prediction-using-Machine-Learning/assets/78456699/6216298f-cf7a-4066-8198-6884a6162fd8">
+
+
+<img width="884" alt="Screenshot 2023-11-17 at 11 53 47 PM" src="https://github.com/SANGAMITHRAMURUGESAN/House-Price-Prediction-using-Machine-Learning/assets/78456699/d92e10b3-98ed-4635-8483-5497e4efd0ed">
+
 
 # Future Scope
 The Future scope of this project is to build a user interface and also try to implement different neural networks and experiment.
